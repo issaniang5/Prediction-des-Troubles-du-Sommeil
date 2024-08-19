@@ -1,7 +1,7 @@
 # Projet de Prédiction des Troubles du Sommeil
 
 
-<img src='https://github.com/issaniang5/Analyseur-de-sentiments-sur-X/blob/main/tweet%202.jpg' height=800px width=800px></img>
+<img src='https://github.com/issaniang5/Prediction-des-Troubles-du-Sommeil/blob/main/IMAGES/image%20readme.jpeg' height=800px width=800px></img>
 
 # Aperçu
 Ce projet implique l'analyse et la classification des métriques liées au sommeil et au système cardiovasculaire, ainsi que des facteurs de mode de vie, pour près de 400 personnes fictives. Le jeu de données est conçu pour répondre aux besoins d'une compagnie d'assurance santé, visant à identifier si un client potentiel est susceptible de souffrir d'un trouble du sommeil. L'entreprise souhaite utiliser ces informations pour déterminer la prime que le client devra payer.
